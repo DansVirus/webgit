@@ -1,0 +1,42 @@
+ body {
+      background-color: rgb(206, 223, 227);
+}  
+
+
+
+.head {
+    font-weight: 700;
+    text-shadow: 2px 2px 2px cornflowerblue;
+    
+}
+
+.head-text{
+
+}
+
+
+.bio-text {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.specs-head {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+.box > h3 {
+    text-align: center;
+}
+
+.box {
+    background-color: aquamarine;
+    width: 300px;
+    height: auto;
+    border: 1px solid black;
+    
+   
+    
+}

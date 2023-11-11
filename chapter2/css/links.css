@@ -1,0 +1,25 @@
+ /* Love Fears Hate*/
+ /* Link, Visited, Focus, Hover, Active */
+
+ a:link {
+    color: black;
+    text-decoration: none;
+ }
+
+ a:visited {
+    color: brown;
+ }
+
+ a:focus {
+    outline: none;
+    background-color: yellow;
+ }
+
+ a:hover {
+    background-color: grey;
+ }
+
+ a:active {
+    background-color: green;
+    color: white;
+ }
