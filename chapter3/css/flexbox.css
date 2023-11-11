@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+    text-align: center;
+    min-height: 100px;
+}
+
+a {
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.container > h3:first-child {
+    color: red;
+}
+
+/*h3 {
+    display: inline;
+    margin-right: 125px;
+}*/

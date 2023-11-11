@@ -1,0 +1,83 @@
+/* Δεν μπορώ να καταλάβω γιατί δεν δουλεύουν οι ιδιότητες text
+στο login-text & reset link. 
+*/
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+.outer{
+width: 30%;
+margin:10px auto;
+padding: 20px 0;
+border-radius: 5px;
+text-align: center;
+background-color: rgb(104, 150, 250);
+
+}
+
+.middle{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+    padding: 20px 0;
+    
+}
+
+.rounded {
+    border-radius: 25px;
+}
+
+.inner {
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.loging-text {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;    
+    
+}
+
+.form-input {
+    width: 80%;
+    height: 48px;
+    border-width: 0;
+    border-radius: 15px;
+    padding-left: 10px;
+}
+
+.form-btn {
+    width: 80%;
+    height: 48px;
+    border-radius: 15px;
+    border: 1.5px solid black;
+    background-color: #87ceeb;
+}
+
+.reset-link {
+    color: black;
+
+}
+
+.gap-bottom {
+    margin-bottom: 20px;
+
+}
+
+
+
+.gap-top {
+margin-top: 20px;
+}
+
+.account-link {
+
+}
