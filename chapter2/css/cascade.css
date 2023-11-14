@@ -1,0 +1,17 @@
+/*p {
+    color: red;
+}
+
+inline>id>class>tag*/
+
+.aueb-text {
+    color: red;
+}
+
+#auebText {
+    color: yellow;
+}
+
+p {
+    color: green!important;
+}
